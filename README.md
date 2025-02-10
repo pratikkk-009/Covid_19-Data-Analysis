@@ -1,4 +1,4 @@
-# Covid 19-Data-Analysis
+# Covid 19-Data Analysis
 COVID-19 Data Analysis and Visualization This project focuses on analyzing and visualizing COVID-19 data using Python. It leverages popular libraries such as Pandas, NumPy, and Matplotlib to process and visualize global COVID-19 statistics. 
 Key insights include:
 
